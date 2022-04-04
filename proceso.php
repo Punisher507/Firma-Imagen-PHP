@@ -42,7 +42,7 @@ $y6 = $y5 + $espacio + $tamanio;
 //$y6 = $y6 + 3;
 $y7 = $y6 + $espacio + $tamanio;
 //$y7 = $y7 + 5;
-imagettftext($imagen, $tamanio, $angulo, $x, $y, $color, $rutaFuente, $texto1);
+imagettftext($imagen, $tamanio, $angulo, $x, $y, $color, $rutaFuente,"Full Name :".$texto1); // ejemplo de como puede Utiliza 
 $tamanio = 11;
 imagettftext($imagen, $tamanio, $angulo, $x, $y2, $color, $rutaFuente, $texto2);
 $tamanio = 10;

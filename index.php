@@ -38,11 +38,6 @@ https://www.tooplate.com/view/2120-ben-resume
 
         </div>
     </nav>
-
-
-
-
-
     <section class="about section-padding" id="about">
         <div class="container">
             <div class="row">
